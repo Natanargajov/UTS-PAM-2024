@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758562235223",
+    "project_id": "uts-pam-390ec",
+    "storage_bucket": "uts-pam-390ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758562235223:android:fa78d65ae40c0200efd412",
+        "android_client_info": {
+          "package_name": "com.example.uts_pam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA94GMG4wAlbp8e7vRshxJP1WAWQ_IxcBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
